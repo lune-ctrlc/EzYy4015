@@ -1,7 +1,7 @@
 # Profile
 - 👋 Hi, I’m Ezekiel
-- 👀 Interested in malware samples or and playing around with analysis tools
-- ✒️ Learnt Ruby,C#,C++,HTML,CSS,MySQL,PHP,Jquery,Javascript
+- 👀 Interested in malware samples and playing around with analysis tools
+- ✒️ Learning Ruby,C#,C++,HTML,CSS,MySQL,PHP,Jquery,Javascript,types of analysis tools,sample malwares
 - 🌱 Currently learning Computer Science: CyberSecurity
 - 💞️ I’m looking to collaborate on ... currently none
 - 📫 How to reach me:
