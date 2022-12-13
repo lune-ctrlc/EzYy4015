@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzYy4015
 - 👀 I’m interested in malware samples or any analysis tools
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning CS:CyberSecurity
 - 💞️ I’m looking to collaborate on ... currently none
 - 📫 How to reach me lingezekiel@gmail.com
 
